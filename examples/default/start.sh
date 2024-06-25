@@ -2,7 +2,7 @@
 
 docker-compose up -d
 
-gateway=m.daocloud.io
+gateway=zhuhuijin.onrender.com
 
 declare -A mapping=()
 
